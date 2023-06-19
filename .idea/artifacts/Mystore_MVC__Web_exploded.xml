@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Mystore(MVC登录注册):Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mystore_MVC__Web_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaEE-librarymanagement" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="JavaEE-librarymanagement/web/Web" />
+    </root>
+  </artifact>
+</component>
